@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-19T01:27:00 AST" name="Default suite" finished-at="2025-01-19T01:27:36 AST" duration-ms="36482">
+    <groups>
+    </groups>
+    <test started-at="2025-01-19T01:27:00 AST" name="Default test" finished-at="2025-01-19T01:27:36 AST" duration-ms="36482">
+      <class name="mypackage.Data_base">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:mypackage.Data_base@6ad59d92]" started-at="2025-01-19T01:27:00 AST" name="mySetup" finished-at="2025-01-19T01:27:33 AST" duration-ms="33735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="ReadTheUpdatedData()[pri:3, instance:mypackage.Data_base@6ad59d92]" started-at="2025-01-19T01:27:34 AST" name="ReadTheUpdatedData" finished-at="2025-01-19T01:27:36 AST" duration-ms="2681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadTheUpdatedData -->
+      </class> <!-- mypackage.Data_base -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
